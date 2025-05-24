@@ -3,11 +3,11 @@ It listens to voice commands, responds with natural-sounding speech, and can per
 
 <h1>Features</h1>
 <ul>
-✅ Wake word detection (“Jarvis”)
-✅ Speech-to-text with Google Speech Recognition
-✅ Text-to-speech replies using gTTS and pyttsx3
-✅ AI-powered responses via OpenAI API
-✅ News headlines fetched from NewsAPI
-✅ Music playback from a customizable library
-✅ Web browsing for popular platforms (Google, YouTube, Facebook, etc.)
+<li>✅ Wake word detection (“Hello”)</li>
+<li>✅ Speech-to-text with Google Speech Recognition</li>
+<li>✅ Text-to-speech replies using gTTS and pyttsx3</li>
+<li>✅ AI-powered responses via OpenAI API</li>
+<li>✅ News headlines fetched from NewsAPI</li>
+<li>✅ Music playback from a customizable library</li>
+<li>✅ Web browsing for popular platforms (Google, YouTube, Facebook, etc.)</li>
 </ul>
