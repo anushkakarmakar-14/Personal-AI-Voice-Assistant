@@ -74,7 +74,7 @@ def clear_reminders():
 
 recognizer = sr.Recognizer()
 engine = pyttsx3.init() 
-newsapi = "ca5018b114484bac81d0c3a009b6e4d6"
+newsapi = "news_API_Key"
 
 def speak_old(text):
     engine.say(text)
@@ -101,7 +101,7 @@ def speak(text):
     os.remove("temp.mp3") 
 
 def aiProcess(command):
-    client = OpenAI(api_key="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",
+    client = OpenAI(api_key="openAi_API_Key",
     )
 
     completion = client.chat.completions.create(
