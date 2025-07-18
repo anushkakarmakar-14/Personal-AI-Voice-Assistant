@@ -28,7 +28,7 @@ motivational_quotes = [
 # pip install pocketsphinx
 
 # Weather function
-weather_api_key = "d0bebc59ce406c638d2aeb77b036ff4f"
+weather_api_key = "your weather_api_key"
 
 def get_weather(city):
     try:
